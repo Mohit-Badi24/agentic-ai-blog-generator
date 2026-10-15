@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-groq
+langchain-ollama
+langchain-text-splitters
+python-dotenv
+streamlit
+pypdf
+faiss-cpu
+sentence-transformers
+langchain-huggingface
